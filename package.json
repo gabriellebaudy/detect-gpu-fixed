@@ -15,9 +15,6 @@
     "type": "git",
     "url": "https://github.com/pmndrs/detect-gpu.git"
   },
-  "files": [
-    "dist"
-  ],
   "keywords": [
     "gpu",
     "detect",
